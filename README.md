@@ -1,0 +1,2 @@
+# tpparadigmas
+tpparadigmassamgidarappt
