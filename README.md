@@ -1,2 +1,2 @@
 # tpparadigmas
-tpparadigmassamgidarappt
+### La carpeta va en ...\Documentos\VisualWorks Projects
